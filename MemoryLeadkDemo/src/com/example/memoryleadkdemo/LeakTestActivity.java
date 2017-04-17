@@ -35,4 +35,5 @@ public class LeakTestActivity extends Activity {
 			leak.doSomething();
 		}
 	}
+	//Add some comnent here.
 }
